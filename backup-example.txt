@@ -1,0 +1,32 @@
+###################
+# Files to backup #
+###################
+
+##############
+# User Space #
+##############
+Desktop
+Documents
+Downloads
+Music
+Pictures
+Public
+Templates
+Videos
+
+#########
+# SHELL #
+#########
+\.bash_history
+\.zsh_history
+
+#######
+# SSH #
+#######
+.ssh
+
+#########
+# Other #
+#########
+
+#.config
